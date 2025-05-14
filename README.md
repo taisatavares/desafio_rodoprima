@@ -21,7 +21,7 @@ Após o tratamento, os dados foram exportados para o Google BigQuery via `pandas
 ### 4. Dashboard no Looker Studio
 O dashboard foi criado a partir das tabelas no BigQuery e está disponível neste link:
 
-🔗 [Acesse o dashboard aqui](https://lookerstudio.google.com/s/hO9XCrGaaEo)
+🔗 [Acesse o dashboard aqui](https://lookerstudio.google.com/s/mqYj6I77lrc)
 
 ---
 
